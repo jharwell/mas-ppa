@@ -1,0 +1,19 @@
+Package: rcsw
+Version: 1.2.3
+Architecture: amd64
+Maintainer: John Harwell <john.r.harwell@gmail.com>
+Installed-Size: 1643
+Filename: ./rcsw_1.2.3_amd64.deb
+Size: 443768
+MD5sum: 6f3842ee1cf2956f1c8dc8969a0ad99f
+SHA1: 1c779ef650c4cc77743c20a46d66ecd9217043b7
+SHA256: 3ece005a0ec17b2eaa9da8e102c318d44a974e20ebbaa5f5ecffb1f71b08e2cf
+Section: devel
+Priority: optional
+Homepage: https://jharwell.github.io/rcsw
+Description: Collection of reusable C software modules for embedded programming, styled
+ after the C++ STL.
+ .
+ It has many data structures, a publisher-subscriber system, concurrent
+ programming utilities, and simple I/O routines for bare-metal applications.
+
