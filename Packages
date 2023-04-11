@@ -2,12 +2,12 @@ Package: rcsw
 Version: 1.2.3
 Architecture: amd64
 Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 1643
+Installed-Size: 2248
 Filename: ./rcsw_1.2.3_amd64.deb
-Size: 443768
-MD5sum: 6f3842ee1cf2956f1c8dc8969a0ad99f
-SHA1: 1c779ef650c4cc77743c20a46d66ecd9217043b7
-SHA256: 3ece005a0ec17b2eaa9da8e102c318d44a974e20ebbaa5f5ecffb1f71b08e2cf
+Size: 555748
+MD5sum: 8116bb9583097872c15e87a46b925b58
+SHA1: 6fb6b37c901f2b15476ed086c11b549a13d165b4
+SHA256: 9369757e64e6fbae3707f6927c8f52430b348b2bd8be3edf89f3184906a05657
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcsw
