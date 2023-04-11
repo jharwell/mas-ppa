@@ -5,10 +5,10 @@ Maintainer: John Harwell <john.r.harwell@gmail.com>
 Installed-Size: 25702
 Depends: ON
 Filename: ./rcppsw_1.4.1_amd64.deb
-Size: 5342822
-MD5sum: e1d09e6cb9d2c8e35f66460ceea71e0a
-SHA1: e08dee3c6bf64e4b2515b7e01e63b942f0ad14cc
-SHA256: a03d0edac9da7bf8b263a44b271b37460a908ada3d0e60444aa44774f50d825d
+Size: 5342826
+MD5sum: 95c0c702897fda3e0511a8778583043d
+SHA1: c010d7d5136cb590d6d366e4c760e38bb91c8305
+SHA256: 759cfbd48d363bfbef469afc6d1193d1177142a1741e31876652c2d49012bb6a
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcppsw
@@ -19,12 +19,12 @@ Package: rcsw
 Version: 1.2.3
 Architecture: amd64
 Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 2248
+Installed-Size: 1631
 Filename: ./rcsw_1.2.3_amd64.deb
-Size: 555748
-MD5sum: 8116bb9583097872c15e87a46b925b58
-SHA1: 6fb6b37c901f2b15476ed086c11b549a13d165b4
-SHA256: 9369757e64e6fbae3707f6927c8f52430b348b2bd8be3edf89f3184906a05657
+Size: 443346
+MD5sum: 8ff7a95fc2821b0e9abaebaeaaeacab7
+SHA1: 662a265e5e7c664db5b4e2bfb6e0344a94cbfc70
+SHA256: e70ac187040a0ae38a8268329a2c5ef2db582e37ae32094b1eb801a49c6dcef4
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcsw
