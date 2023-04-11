@@ -1,3 +1,20 @@
+Package: rcppsw
+Version: 1.4.1
+Architecture: amd64
+Maintainer: John Harwell <john.r.harwell@gmail.com>
+Installed-Size: 25702
+Depends: ON
+Filename: ./rcppsw_1.4.1_amd64.deb
+Size: 5342822
+MD5sum: e1d09e6cb9d2c8e35f66460ceea71e0a
+SHA1: e08dee3c6bf64e4b2515b7e01e63b942f0ad14cc
+SHA256: a03d0edac9da7bf8b263a44b271b37460a908ada3d0e60444aa44774f50d825d
+Section: devel
+Priority: optional
+Homepage: https://jharwell.github.io/rcppsw
+Description: RCPPSW is a collection of reusable C++ software (design patterns, boost gaps,
+ etc.), independent of any C++ project.
+
 Package: rcsw
 Version: 1.2.3
 Architecture: amd64
