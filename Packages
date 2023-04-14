@@ -18,6 +18,26 @@ Description: Core Swarm (COSM) is a collection of non application, method, or co
  MAS, but maybe not more broadly).  This COSM is built for: Platform=ARGOS,
  hardware=argos-drone.
 
+Package: cosm-argos-footbot
+Version: 1.3.2
+Architecture: amd64
+Maintainer: John Harwell <john.r.harwell@gmail.com>
+Installed-Size: 162911
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libopengl0, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 11)
+Filename: ./cosm-argos-footbot_1.3.2_amd64.deb
+Size: 28824066
+MD5sum: 1ee80a331cff9e68d533278db4674de0
+SHA1: 03670f4f4cea6f319b66bc64ef9135f98b756078
+SHA256: 9ad55667fd4baf77e0778b897f26ae1e555dc95cfa0988d515055e1a7c328bb0
+Section: devel
+Priority: optional
+Homepage: https://jharwell.github.io/cosm
+Description: Core Swarm (COSM) is a collection of non application, method, or controller
+ specific software components that can be reused across multiple
+ Multi-Agent System (MAS) projects (i.e., generic in the context of
+ MAS, but maybe not more broadly).  This COSM is built for: Platform=ARGOS,
+ hardware=argos-footbot.
+
 Package: rcppsw
 Version: 1.4.1
 Architecture: amd64
