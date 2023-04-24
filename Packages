@@ -22,13 +22,13 @@ Package: cosm-argos-drone
 Version: 1.3.3
 Architecture: amd64
 Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 154104
+Installed-Size: 145559
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libopengl0, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 11)
 Filename: ./cosm-argos-drone_1.3.3_amd64.deb
-Size: 27250144
-MD5sum: 62f64d20e0df678ec4cd4d9c3cf7e148
-SHA1: 71f60a8a18053887947ae562acf3f7c1a8507989
-SHA256: 03a78ecfe2e4a8e925f449dbc9397aed26ba5d42853ac2ca8e24ed7f5276f370
+Size: 25887188
+MD5sum: 1341aa8823e765ac74f64a1ab832adb2
+SHA1: 0311687f8f79b0f1d2c466c08b0dd9b47ad00be7
+SHA256: ab110b442b20bbda5bdb27d8153df68e8df64797b99389ad8b55681ec45158c9
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/cosm
