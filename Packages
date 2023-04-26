@@ -58,23 +58,6 @@ Description: Core Swarm (COSM) is a collection of non application, method, or co
  MAS, but maybe not more broadly).  This COSM is built for: Platform=ROS,
  hardware=ros-eturtlebot3.
 
-Package: rcppsw
-Version: 1.4.1
-Architecture: amd64
-Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 25702
-Depends: ON
-Filename: ./rcppsw_1.4.1_amd64.deb
-Size: 5342826
-MD5sum: 95c0c702897fda3e0511a8778583043d
-SHA1: c010d7d5136cb590d6d366e4c760e38bb91c8305
-SHA256: 759cfbd48d363bfbef469afc6d1193d1177142a1741e31876652c2d49012bb6a
-Section: devel
-Priority: optional
-Homepage: https://jharwell.github.io/rcppsw
-Description: RCPPSW is a collection of reusable C++ software (design patterns, boost gaps,
- etc.), independent of any C++ project.
-
 Package: rcppsw-dev
 Version: 1.4.3
 Architecture: amd64
@@ -82,10 +65,61 @@ Maintainer: John Harwell <john.r.harwell@gmail.com>
 Installed-Size: 20046
 Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3), liblog4cxx12 (>= 0.12.1), libstdc++6 (>= 11)
 Filename: ./rcppsw-dev_1.4.3_amd64.deb
-Size: 3261382
-MD5sum: 20073fe9274a6089455d8cbfbc3c29aa
-SHA1: 51c268fe98e888be0f766344d8d2f388875ff40a
-SHA256: c14b58f7914694d827b3dc6f9e4e1ed10295c7ddf417ce25e3aeaa0195f812af
+Size: 3261340
+MD5sum: 906588429500edea9c30b99c6a83016f
+SHA1: dede1f9505e4f04ad5f418fc3765642b55777c65
+SHA256: af91fbddfbd22337776473f7ad771594b591a7baf04b158740c51f8facebee0d
+Section: devel
+Priority: optional
+Homepage: https://jharwell.github.io/rcppsw
+Description: RCPPSW is a collection of reusable C++ software (design patterns, boost gaps,
+ etc.), independent of any C++ project.
+
+Package: rcppsw-er-opt
+Version: 1.4.3
+Architecture: amd64
+Maintainer: John Harwell <john.r.harwell@gmail.com>
+Installed-Size: 19561
+Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libstdc++6 (>= 11)
+Filename: ./rcppsw-er-opt_1.4.3_amd64.deb
+Size: 3542542
+MD5sum: 19cdc5a447e3369683a966cd0c2c7401
+SHA1: a2932e2628fd4dcc3a065bd243ca489c1f3c4649
+SHA256: c2457e9f884c40013a0c3c09b5ae85cc1b85b884a6676afcce3d393848de473f
+Section: devel
+Priority: optional
+Homepage: https://jharwell.github.io/rcppsw
+Description: RCPPSW is a collection of reusable C++ software (design patterns, boost gaps,
+ etc.), independent of any C++ project.
+
+Package: rcppsw-mt-er-opt
+Version: 1.4.3
+Architecture: amd64
+Maintainer: John Harwell <john.r.harwell@gmail.com>
+Installed-Size: 19561
+Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libstdc++6 (>= 11)
+Filename: ./rcppsw-mt-er-opt_1.4.3_amd64.deb
+Size: 3542576
+MD5sum: 9e8a7983800ddc411030b3732eda8244
+SHA1: daf21a1798c58fb13e2f7fe3202e25f24112bf5d
+SHA256: 5a5e7d402d8f295fceb221972d12e5199c8e5e41d7285ff01cf7a5d3f274f317
+Section: devel
+Priority: optional
+Homepage: https://jharwell.github.io/rcppsw
+Description: RCPPSW is a collection of reusable C++ software (design patterns, boost gaps,
+ etc.), independent of any C++ project.
+
+Package: rcppsw-mt-opt
+Version: 1.4.3
+Architecture: amd64
+Maintainer: John Harwell <john.r.harwell@gmail.com>
+Installed-Size: 16428
+Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11)
+Filename: ./rcppsw-mt-opt_1.4.3_amd64.deb
+Size: 2871994
+MD5sum: 4b9580429e8f967f466d6727310d9a8f
+SHA1: e6399bb8a779b1228ecfe25bf28d62d8db8eff13
+SHA256: 995edf78cd641526aa1336c264b4e641e813aeddd16f260891ebfbe5ee0fa510
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcppsw
@@ -99,27 +133,10 @@ Maintainer: John Harwell <john.r.harwell@gmail.com>
 Installed-Size: 16428
 Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11)
 Filename: ./rcppsw-opt_1.4.3_amd64.deb
-Size: 2872024
-MD5sum: f463498aaa3d1f2a8102f2a1093143cc
-SHA1: 52cfdc7bff58e8eaf7e72f0ffcf32517811aee4c
-SHA256: ded6c2b389390edc4da94c9c8088ddcac418cfb666e18e00e86d6434de343a38
-Section: devel
-Priority: optional
-Homepage: https://jharwell.github.io/rcppsw
-Description: RCPPSW is a collection of reusable C++ software (design patterns, boost gaps,
- etc.), independent of any C++ project.
-
-Package: rcppsw-opter
-Version: 1.4.3
-Architecture: amd64
-Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 19561
-Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libstdc++6 (>= 11)
-Filename: ./rcppsw-opter_1.4.3_amd64.deb
-Size: 3542558
-MD5sum: 977730a0135a6d85ecc8d726c68f78b2
-SHA1: bcdbd42be1b1429b0ceddfd5936a168d47b9724a
-SHA256: efdb9adfc9ff43ae4fda8206ce75c545b248f5b661439a6bdc2bfcec7fe63ea7
+Size: 2872006
+MD5sum: 435ae79ada5bc48834450462a9cbbdec
+SHA1: ecb869a4f290c3d731807ef5f89b39f33311d983
+SHA256: c4d3e3f9b2448541ebf1d911e6613970132b501eafff1a3ecf5d3f54f7a079f4
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcppsw
