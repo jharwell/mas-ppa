@@ -22,13 +22,13 @@ Package: cosm-argos-drone
 Version: 1.3.3
 Architecture: amd64
 Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 145763
-Depends: python3, ros-noetic-roscpp, ros-noetic-rosconsole, ros-noetic-rostime, ros-noetic-roscpp_serialization, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libopengl0, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 11)
+Installed-Size: 8175
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libopengl0, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 11)
 Filename: ./cosm-argos-drone_1.3.3_amd64.deb
-Size: 25935356
-MD5sum: 2cfe96139e8100bab293c6bd9f69926a
-SHA1: 015f5605c3bf3f8f26a3999478565d2a754469eb
-SHA256: 767325dfaf7130180ce34bfce5d653661a6782374aa5569e7a327a69d2d74ba4
+Size: 1295764
+MD5sum: 071f1419c3f7d1683990a256b18866d7
+SHA1: 669f02ccb60fad51c0207cb214e1745b897dc002
+SHA256: a8e59f336c14e92405876e8afabcddd1a65a4fe190c1165d6f81beae0d87a55a
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/cosm
