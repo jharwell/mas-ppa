@@ -75,6 +75,57 @@ Homepage: https://jharwell.github.io/rcppsw
 Description: RCPPSW is a collection of reusable C++ software (design patterns, boost gaps,
  etc.), independent of any C++ project.
 
+Package: rcppsw-dev
+Version: 1.4.3
+Architecture: amd64
+Maintainer: John Harwell <john.r.harwell@gmail.com>
+Installed-Size: 20046
+Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3), liblog4cxx12 (>= 0.12.1), libstdc++6 (>= 11)
+Filename: ./rcppsw-dev_1.4.3_amd64.deb
+Size: 3261382
+MD5sum: 20073fe9274a6089455d8cbfbc3c29aa
+SHA1: 51c268fe98e888be0f766344d8d2f388875ff40a
+SHA256: c14b58f7914694d827b3dc6f9e4e1ed10295c7ddf417ce25e3aeaa0195f812af
+Section: devel
+Priority: optional
+Homepage: https://jharwell.github.io/rcppsw
+Description: RCPPSW is a collection of reusable C++ software (design patterns, boost gaps,
+ etc.), independent of any C++ project.
+
+Package: rcppsw-opt
+Version: 1.4.3
+Architecture: amd64
+Maintainer: John Harwell <john.r.harwell@gmail.com>
+Installed-Size: 16428
+Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11)
+Filename: ./rcppsw-opt_1.4.3_amd64.deb
+Size: 2872024
+MD5sum: f463498aaa3d1f2a8102f2a1093143cc
+SHA1: 52cfdc7bff58e8eaf7e72f0ffcf32517811aee4c
+SHA256: ded6c2b389390edc4da94c9c8088ddcac418cfb666e18e00e86d6434de343a38
+Section: devel
+Priority: optional
+Homepage: https://jharwell.github.io/rcppsw
+Description: RCPPSW is a collection of reusable C++ software (design patterns, boost gaps,
+ etc.), independent of any C++ project.
+
+Package: rcppsw-opter
+Version: 1.4.3
+Architecture: amd64
+Maintainer: John Harwell <john.r.harwell@gmail.com>
+Installed-Size: 19561
+Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libstdc++6 (>= 11)
+Filename: ./rcppsw-opter_1.4.3_amd64.deb
+Size: 3542558
+MD5sum: 977730a0135a6d85ecc8d726c68f78b2
+SHA1: bcdbd42be1b1429b0ceddfd5936a168d47b9724a
+SHA256: efdb9adfc9ff43ae4fda8206ce75c545b248f5b661439a6bdc2bfcec7fe63ea7
+Section: devel
+Priority: optional
+Homepage: https://jharwell.github.io/rcppsw
+Description: RCPPSW is a collection of reusable C++ software (design patterns, boost gaps,
+ etc.), independent of any C++ project.
+
 Package: rcsw
 Version: 1.2.3
 Architecture: amd64
