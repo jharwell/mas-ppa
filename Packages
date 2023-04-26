@@ -82,13 +82,13 @@ Package: cosm-argos-footbot
 Version: 1.3.3
 Architecture: amd64
 Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 11839
-Depends: argos3_simulator, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libopengl0, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 11)
+Installed-Size: 8601
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libopengl0, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 11)
 Filename: ./cosm-argos-footbot_1.3.3_amd64.deb
-Size: 1347164
-MD5sum: c6cd7cf12512b5b40bec4a417d4fd7dd
-SHA1: baa371e0434f4db1e6b3413af655a2b5c8190535
-SHA256: 04e400dabe61bde7dc6ab04945c1b3bc9a65014eece9e3d8519a2c6ec2d513b5
+Size: 1347184
+MD5sum: a7962e5a9d7c50c0c3f907b33ddca747
+SHA1: 21f6dd2a9e940eed9868f5dfc7738741f1fe1922
+SHA256: 716d50ffeb5fc4f50587e4c5728f162cf5d214af989bed39543f9c8ece5359c8
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/cosm
