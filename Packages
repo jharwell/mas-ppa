@@ -98,6 +98,26 @@ Description: Core Swarm (COSM) is a collection of non application, method, or co
  MAS, but maybe not more broadly).  This COSM is built for: Platform=ARGOS,
  hardware=argos-footbot.
 
+Package: cosm-ros-eturtlebot3
+Version: 1.3.3
+Architecture: amd64
+Maintainer: John Harwell <john.r.harwell@gmail.com>
+Installed-Size: 8815
+Depends: python3, ros-noetic-roscpp, ros-noetic-rosconsole, ros-noetic-rostime, ros-noetic-roscpp-serialization, libc6 (>= 2.29), libgcc-s1 (>= 3.3.1), liblog4cxx10v5 (>= 0.10.0), libstdc++6 (>= 9)
+Filename: ./cosm-ros-eturtlebot3_1.3.3_amd64.deb
+Size: 1000008
+MD5sum: 443d2e02c0665dea4c194201c873e81a
+SHA1: d835044b1b306bc3e0c86b6e2d1d1f9500fdf9b7
+SHA256: dfee0a87e6f33f55d2e82855a336b6c339a3e93982c0a852c856043745ff5761
+Section: devel
+Priority: optional
+Homepage: https://jharwell.github.io/cosm
+Description: Core Swarm (COSM) is a collection of non application, method, or controller
+ specific software components that can be reused across multiple
+ Multi-Agent System (MAS) projects (i.e., generic in the context of
+ MAS, but maybe not more broadly).  This COSM is built for: Platform=ROS,
+ hardware=ros-eturtlebot3.
+
 Package: rcppsw
 Version: 1.4.1
 Architecture: amd64
