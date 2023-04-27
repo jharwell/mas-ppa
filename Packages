@@ -65,10 +65,10 @@ Maintainer: John Harwell <john.r.harwell@gmail.com>
 Installed-Size: 6573
 Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3), liblog4cxx12 (>= 0.12.1), libstdc++6 (>= 11)
 Filename: ./rcppsw-dev_1.4.3_amd64.deb
-Size: 1064240
-MD5sum: 1d62b2ed541909daf7b459ce4e0a49d8
-SHA1: 37faa221c905380bfcf8b4cab8aea178dd01692e
-SHA256: 4b46143ec685566aab904d677bbd289bdf4c9785a9fee22f0a0de27d756f3f09
+Size: 1064236
+MD5sum: ed57a428d260616a6c3cd5aa0c115951
+SHA1: 7de8aab9257c5aefda50402f96d5f2a9d319b00d
+SHA256: 6ba936d16060665dbf16342ceb9b324da256113236397fbb167a3f9e2dfc6671
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcppsw
@@ -79,13 +79,13 @@ Package: rcppsw-er-opt
 Version: 1.4.3
 Architecture: amd64
 Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 4720
+Installed-Size: 4721
 Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libstdc++6 (>= 11)
 Filename: ./rcppsw-er-opt_1.4.3_amd64.deb
-Size: 913096
-MD5sum: 2bae139bba4339a1f7df9e174aeabd6b
-SHA1: 931de40725316639074ad21152e0a739148e3190
-SHA256: 579afaccba158625dbb8b14173e3237996cd1eed0bf3d0fa836d9b397367d05c
+Size: 913044
+MD5sum: 5bea2fc9f1efa91c6ae3b007d5ccf9e0
+SHA1: b2765a170d5a54b1fe748c2f6c627804a9e4628d
+SHA256: c2be818e1684cf8dbdc3cc3393335d324b56301492cd53d1886d3f4f997a1e94
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcppsw
@@ -99,10 +99,10 @@ Maintainer: John Harwell <john.r.harwell@gmail.com>
 Installed-Size: 4721
 Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), liblog4cxx12 (>= 0.12.1), libstdc++6 (>= 11)
 Filename: ./rcppsw-mt-er-opt_1.4.3_amd64.deb
-Size: 913124
-MD5sum: d6095fbc719d191a131b8c8c31fe25ce
-SHA1: 982af3c491a418c9316d8cfad6131ac4e320a840
-SHA256: 5eede762270d65933c9d0cd63a0d2e868889b0c0f8953587dc974918f6200717
+Size: 913068
+MD5sum: f9c750c4d08becaf663e525e9e82a97c
+SHA1: 810e137f5d73af9dea79e32cd369efb91dc2b6ac
+SHA256: a9da2cfc0393c8cb49c6143286d7508c0e5162a6842ee468de959045ab968cab
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcppsw
@@ -116,10 +116,10 @@ Maintainer: John Harwell <john.r.harwell@gmail.com>
 Installed-Size: 4552
 Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11)
 Filename: ./rcppsw-mt-opt_1.4.3_amd64.deb
-Size: 878836
-MD5sum: 1ba2504da8fd56ddef2058003996ae84
-SHA1: 03564723286731000e6d690eb2c5bcb655be3453
-SHA256: cdb013711d37e6f9cfbca4b82b09dfdae751f19741d0f76ae863b7e6665e2dec
+Size: 878820
+MD5sum: 9061a6428daa48ccd95a4520155fb63e
+SHA1: 8a3aacdd20605720ada711977b5d2d6720403970
+SHA256: dc31af762c569b9d3786b89aeb360e5c5d2ba3e20aceb96eb24e365c05f8bdce
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcppsw
@@ -133,10 +133,10 @@ Maintainer: John Harwell <john.r.harwell@gmail.com>
 Installed-Size: 4552
 Depends: libboost-program-options1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11)
 Filename: ./rcppsw-opt_1.4.3_amd64.deb
-Size: 878836
-MD5sum: e7e872129aabb9b4dc7f94d674d6d392
-SHA1: 699346e587a6a989be54202749ebb85ff7e204e0
-SHA256: 571c1637fc631bd40692916083d12a342232db426e9b03dba8c184860dde8b49
+Size: 878782
+MD5sum: 049d1998d03735dfd5c42c205b106829
+SHA1: 4d6a09858c9277810061a0ddf188771cd24c40fd
+SHA256: b3fc872b5d3057968c9b25e38d316c2047f04d7eb541cade51b7ec0ba7b68e85
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcppsw
