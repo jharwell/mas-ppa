@@ -31,3 +31,12 @@ To enable it::
   sudo apt update
 
 You can then perform all the usual package actions.
+
+Manual update notes
+===================
+
+- Make sure the library type for RCSW/RCPPSW is SHARED, otherwise cpack will
+  install the .a somewhere other than where cmake 3.26 expects it (I have no
+  idea why).
+
+- Set CPACK_PACKAGE_INSTALL_DIRECTORY and CMAKE_INSTALL_PREFIX to /usr/local.

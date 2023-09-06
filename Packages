@@ -144,40 +144,44 @@ Description: RCPPSW is a collection of reusable C++ software (design patterns, b
  etc.), independent of any C++ project.
 
 Package: rcsw
-Version: 1.2.3
+Version: 1.2.14
 Architecture: amd64
 Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 1631
-Filename: ./rcsw_1.2.3_amd64.deb
-Size: 443346
-MD5sum: 8ff7a95fc2821b0e9abaebaeaaeacab7
-SHA1: 662a265e5e7c664db5b4e2bfb6e0344a94cbfc70
-SHA256: e70ac187040a0ae38a8268329a2c5ef2db582e37ae32094b1eb801a49c6dcef4
+Installed-Size: 1678
+Depends: libc6 (>= 2.17)
+Filename: ./rcsw_1.2.14_amd64.deb
+Size: 315088
+MD5sum: a1ddafc1d758e67365cede31ed9133af
+SHA1: 910870fbe6733b8e198404a7f1b99680008832dd
+SHA256: 5f80caeebec5431c4bdb23175bb7f788aa395c3b75ea93e843597fa3041912fe
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcsw
 Description: Collection of reusable C software modules for embedded programming, styled
  after the C++ STL.
  .
- It has many data structures, a publisher-subscriber system, concurrent
- programming utilities, and simple I/O routines for bare-metal applications.
+ It has many data structures, a publisher-subscriber system,
+ plugin-based event reporting framework, and a simple stdlib replacement
+ for bare-metal applications.
 
 Package: rcsw-dev
-Version: 1.2.3
+Version: 1.2.14
 Architecture: amd64
 Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 1624
-Filename: ./rcsw-dev_1.2.3_amd64.deb
-Size: 441662
-MD5sum: 70556327ce73c22257d9ca6fa74d398e
-SHA1: 1653351c2ef52a071a970363a8b85ca56769c151
-SHA256: e2b3894b6572786d1aaa7600226aa4cb43ba614e3d2caee8996fc19bac400633
+Installed-Size: 1142
+Depends: libc6 (>= 2.29)
+Filename: ./rcsw-dev_1.2.14_amd64.deb
+Size: 216576
+MD5sum: 65ed429d76ccbb33f3cff123dabd537c
+SHA1: 621718965f96fb7b9010ffb855c3c876880016f0
+SHA256: a079fd7746c4dac9b6b59aa4e69b4956025e694246313a3f1c78016982d22c6e
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcsw
 Description: Collection of reusable C software modules for embedded programming, styled
  after the C++ STL.
  .
- It has many data structures, a publisher-subscriber system, concurrent
- programming utilities, and simple I/O routines for bare-metal applications.
+ It has many data structures, a publisher-subscriber system,
+ plugin-based event reporting framework, and a simple stdlib replacement
+ for bare-metal applications.
 
