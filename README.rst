@@ -39,4 +39,5 @@ Manual update notes
   install the .a somewhere other than where cmake 3.26 expects it (I have no
   idea why).
 
-- Set CPACK_PACKAGE_INSTALL_DIRECTORY and CMAKE_INSTALL_PREFIX to /usr/local.
+- Set CPACK_PACKAGE_INSTALL_DIRECTORY, CMAKE_INSTALL_PREFIX, and
+  LIBRA_DEPS_PREFIX to /usr/local.

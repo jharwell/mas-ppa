@@ -144,16 +144,16 @@ Description: RCPPSW is a collection of reusable C++ software (design patterns, b
  etc.), independent of any C++ project.
 
 Package: rcsw
-Version: 1.2.14
+Version: 1.2.23
 Architecture: amd64
 Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 1678
+Installed-Size: 1632
 Depends: libc6 (>= 2.17)
-Filename: ./rcsw_1.2.14_amd64.deb
-Size: 315088
-MD5sum: a1ddafc1d758e67365cede31ed9133af
-SHA1: 910870fbe6733b8e198404a7f1b99680008832dd
-SHA256: 5f80caeebec5431c4bdb23175bb7f788aa395c3b75ea93e843597fa3041912fe
+Filename: ./rcsw_1.2.23_amd64.deb
+Size: 305080
+MD5sum: 5a28b2f09119f28ec1e6ade478d363be
+SHA1: 122e6025eff0945bafe7b50d11f4ec8c156b1b47
+SHA256: dd98b68814a69c691462eccc0e08782fa2ab02e60dd01ac57af0ff9b072ec8e6
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcsw
@@ -165,16 +165,16 @@ Description: Collection of reusable C software modules for embedded programming,
  for bare-metal applications.
 
 Package: rcsw-dev
-Version: 1.2.14
+Version: 1.2.23
 Architecture: amd64
 Maintainer: John Harwell <john.r.harwell@gmail.com>
-Installed-Size: 1142
+Installed-Size: 1248
 Depends: libc6 (>= 2.29)
-Filename: ./rcsw-dev_1.2.14_amd64.deb
-Size: 216576
-MD5sum: 65ed429d76ccbb33f3cff123dabd537c
-SHA1: 621718965f96fb7b9010ffb855c3c876880016f0
-SHA256: a079fd7746c4dac9b6b59aa4e69b4956025e694246313a3f1c78016982d22c6e
+Filename: ./rcsw-dev_1.2.23_amd64.deb
+Size: 236148
+MD5sum: 6fc8097e625f1e7a06d1c374b7346bb0
+SHA1: 9fe7cf6860bd664f0bad2e37c84d606602e375cb
+SHA256: 041688cc281914d665e53e55caf226599dfdf2bc464f115730ec50121b2eb5e8
 Section: devel
 Priority: optional
 Homepage: https://jharwell.github.io/rcsw
